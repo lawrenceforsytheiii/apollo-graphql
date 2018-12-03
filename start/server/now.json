@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "Space Explorer Server",
+  "builds": [
+      { "src": "src/index.js", "use": "@now/node-server" }
+  ]
+}
